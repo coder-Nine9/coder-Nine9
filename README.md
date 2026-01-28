@@ -9,38 +9,18 @@ If an idea comes to my mind, I try to turn it into a working web app 🚀
 
 🛠 Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+HTML • CSS • JavaScript
 
-Currently learning: Advanced JavaScript & Front-End Projects
+🎯 Focus
 
-Tools: VS Code,Git, GitHub,
+Front-end projects
 
-📌 Projects
+Practical learning
 
-I focus on project-based learning, building things like:
+Continuous improvement
 
-CRUD applications
+✨ Fun
 
-To-Do lists & quizzes
+Project-based learner
 
-Interactive UI components
-
-Small real-world front-end projects
-
-(Check out my pinned repositories 👇)
-
-🎯 Goals
-
-Improve my front-end skills step by step
-
-Build strong real-world projects
-
-Grow as a web developer & software engineer
-
-✨ Fun Facts
-
-I learn best by building, not just watching
-
-I’m improving my English while coding
-
-I enjoy problem-solving and clean UI design
+Improving my English while coding
